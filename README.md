@@ -181,4 +181,4 @@ Key findings include:
 
 ## Author
 
-Developed as a data science portfolio project exploring machine learning applications within the GB electricity market.
+Developed as an analytics portfolio project exploring machine learning applications within the GB electricity market.
