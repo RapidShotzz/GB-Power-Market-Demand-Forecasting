@@ -1,0 +1,18 @@
+# Data manipulation
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Dashboard
+streamlit
+
+# Notebook environment
+jupyter
+ipykernel
