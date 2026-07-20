@@ -103,15 +103,21 @@ The exploratory analysis investigates:
 
 ---
 
-#### Seasonal Demand
+#### Average Weekly Solar Generation
 
-![Seasonal Demand](images/seasonal_trends.png)
+![Weekly Solar Generation](images/weeklysolargeneration.png)
 
 ---
 
 #### Correlation Heatmap
 
-![Correlation](images/correlation_heatmap.png)
+![Correlation](images/correlationheatmap.png)
+
+---
+
+#### Relationship Between Solar Generation and Renewable Percentage
+
+![Solar Generation and Renewable Percentage](images/solarandrenewable.png)
 
 ---
 
