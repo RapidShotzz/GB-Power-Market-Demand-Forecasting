@@ -99,7 +99,7 @@ The exploratory analysis investigates:
 
 #### Daily Demand Profile
 
-![Daily Demand](images/daily_demand_profile.png)
+![Average Daily Demand](images/avgdemanddaily.png)
 
 ---
 
