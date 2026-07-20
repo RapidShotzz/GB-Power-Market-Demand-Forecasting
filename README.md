@@ -169,32 +169,6 @@ Key findings include:
 
 ---
 
-## Repository Structure
-
-```
-GB-Power-Market-Demand-Forecasting/
-│
-├── README.md
-├── requirements.txt
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_Data_Cleaning.ipynb
-│   ├── 02_EDA.ipynb
-│   ├── 03_Feature_Engineering.ipynb
-│   ├── 04_Time_Series.ipynb
-│   ├── 05_Modelling.ipynb
-│   └── 06_Evaluation.ipynb
-│
-├── images/
-│
-
-```
-
----
-
 ## Future Improvements
 
 - Integrate weather data
